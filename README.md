@@ -7,9 +7,8 @@ A cloud file system that can be mounted on Android devices.
 CFA (CubeFS For Android) provides a mountable cloud file system for mobile devices (including mobile phones, pads, IoT devices, etc.) equipped with Android OS. Some key functions of CFA include:
 
 * Expand the local storage space of user devices.
-* Support 100 million level equipment access capability.
+* Support concurrent access of billion-level devices.
 * Support connect to third-party accounts and authentication services.
-* Support quasi real-time data synchronization and sharing between multiple devices under the same account.
 ## Architecture
 
 ![arch](./docs/pic/arch.png)
